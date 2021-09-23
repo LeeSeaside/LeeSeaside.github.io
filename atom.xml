@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leeseaside.github.io/</id>
     <title>LeeSeaside</title>
-    <updated>2021-09-23T11:00:13.076Z</updated>
+    <updated>2021-09-23T12:34:27.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leeseaside.github.io/"/>
     <link rel="self" href="https://leeseaside.github.io/atom.xml"/>
@@ -11,35 +11,46 @@
     <icon>https://leeseaside.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, LeeSeaside</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://leeseaside.github.io/post/hello-gridea/</id>
-        <link href="https://leeseaside.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[IDEA 之 常用快捷键😮]]></title>
+        <id>https://leeseaside.github.io/post/idea-zhi-chang-yong-kuai-jie-jian/</id>
+        <link href="https://leeseaside.github.io/post/idea-zhi-chang-yong-kuai-jie-jian/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2021-09-23T12:21:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>🚩 一些常用的idea快捷键，方便查阅，随时更新。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>🚩 一些常用的idea快捷键，方便查阅，随时更新。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<hr>
+<p><code>Ctrl</code> + <code>Shift</code> + A ：全局搜索设置</p>
+<p><code>Shift</code> + <code>Shift</code> ：全局搜索</p>
+<p><code>Ctrl</code> + <code>Shift</code> + 向右（左）箭头 ：选择</p>
+<p><code>Alt</code> + <code>Shift</code> + 向上（下）箭头：上或下整行选择</p>
+<p><code>Ctrl</code> + 斜杠 ：注释代码</p>
+<p><code>Ctrl</code> + <code>Shift</code> + 斜杠 ：写注释</p>
+<p><code>Alt</code> + 向下箭头 ：移动代码</p>
+<p><code>Ctrl</code> + <code>NumPad -</code> ：折叠代码</p>
+<p><code>Ctrl</code> + <code>NumPad +</code> ：展开代码</p>
+<p><code>Ctrl</code> + <code>NumPad *</code> ：展开所有代码</p>
+<p><code>Ctrl</code> +  <code>Shift</code> + <code>NumPad /</code> ：折叠所有代码</p>
+<p><code>Alt</code> + <code>Shift</code> + Z ：增加环绕代码（for | if | try/catch）</p>
+<p><code>Alt</code> + R ：取消环绕代码</p>
+<p><code>Alt</code> + Y ：选择相同名字的代码（单个）</p>
+<p><code>Alt</code> + <code>Shift</code> + ：取消相同名字的代码（单个）</p>
+<p><code>Ctrl</code> +  <code>Shift</code> + Y ：选择所有相同名字的代码</p>
+<p><code>Ctrl</code> +  <code>Shift</code> + <code>Enter</code> ：添加括号（;）结束代码</p>
+<p><code>Alt</code> + <code>Shift</code> + R ：替换所有用到的变量</p>
+<p><code>Alt</code> + <code>Shift</code> + L ：添加该行语句的变量</p>
+<p><code>Alt</code> + <code>Shift</code> + M ：提取代码块，封装成一个方法</p>
+<p><code>Ctrl</code> + <code>Alt</code>  + C ：将该字符变为公共变量</p>
+<p><code>Ctrl</code> + <code>Alt</code>  + P ：将表达式提取为参数</p>
+<p><code>Ctrl</code> + <code>Alt</code> + L ：格式化代码</p>
+<p><code>Alt</code> + <code>Shift</code> + O ：高亮选择的所有使用变量</p>
+<p><code>F3</code> ：跳转至类或接口的声明</p>
+<p><code>Ctrl</code> + T ：跳转至该类或接口的实现</p>
+<p><code>F12</code> ：跳转至源代码</p>
+<p><code>Ctrl</code> + <code>F3</code> ：查看该类的代码结构</p>
+<p><code>Ctrl</code> + K ：查找该变量被使用的下一个</p>
+<p><code>Ctrl</code> +  <code>Shift</code> + K ：查找该变量被使用的上一个</p>
 ]]></content>
     </entry>
 </feed>
