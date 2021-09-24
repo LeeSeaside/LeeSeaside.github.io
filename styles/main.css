@@ -583,7 +583,7 @@ h3.post-subtitle p {
 @media all and (orientation: landscape) {
   header.masthead .row {
     margin-top: 0px;
-    padding-top: 400px;
+    padding-top: 40vh;
   }
 }
 /*手机竖屏*/
@@ -932,7 +932,7 @@ header.masthead .row .site-heading h1 {
   }
   header.masthead .row {
     /* margin-top: 57px; */
-    padding-top: 400px;
+    padding-top: 40vh;
     height: 230px !important;
   }
   header.masthead .row .site-heading .user-avatar {
